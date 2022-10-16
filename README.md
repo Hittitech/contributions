@@ -1,5 +1,7 @@
 # Open Source Contribution
 
+# If you haven't registered for hacktoberfest2022 you can register here https://hacktoberfest.com/
+
 Hi there, let me walk you on how you can make your first Open-Source Contribution using this very project.
 
 # How to contribute in this project ?

@@ -1,1 +1,6 @@
-
+ {
+        "github": "https://github.com/Hittitech",
+        "name": "Md Adnan Sami",
+	"Linedin":"linkedin.com/in/md-adnan-sami-234622214".
+         #opensource
+    },

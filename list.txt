@@ -4,3 +4,9 @@
 	"Linedin":"linkedin.com/in/md-adnan-sami-234622214".
          #opensource
     },
+{
+        "github": "https://github.com/Mohammadkhan18",
+        "name": "Mohammad Khan",
+	"Linedin":"https://www.linkedin.com/in/mohammad-khan-356105227/".
+         #opensource
+    },

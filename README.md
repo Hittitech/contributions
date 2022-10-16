@@ -45,7 +45,7 @@ Open your VScode and press `ctrl+shift+p` to open command pallet and choose `git
 
 ## Step 6: Edit the project
 
-Once you are done, open the project and navigate to `contributorList.js` file under `Scripts` folder
+Once you are done, open the project and navigate to `list.txt` file 
 
 Copy the below text and replace data with your `github profile link` , your `name`and your linkedin profile link(optional), add as shown in the image below
 ```

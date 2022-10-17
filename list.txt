@@ -16,3 +16,9 @@
 	"Linedin":"https://www.linkedin.com/in/anurag-singh-9b39b1219/".
          #opensource
     },
+    {
+        "github": "https://github.com/jalajsc",
+        "name": "Jalaj",
+	"Linedin":"https://www.linkedin.com/in/jalaj-singh-a19099221/".
+         #opensource
+    },

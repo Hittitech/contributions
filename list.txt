@@ -10,3 +10,9 @@
 	"Linedin":"https://www.linkedin.com/in/mohammad-khan-356105227/".
          #opensource
     },
+    {
+        "github": "https://github.com/Anurag-05-prog",
+        "name": "Anurag Singh",
+	"Linedin":"https://www.linkedin.com/in/anurag-singh-9b39b1219/".
+         #opensource
+    },

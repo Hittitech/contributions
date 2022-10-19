@@ -16,3 +16,9 @@
 	"Linedin":"https://www.linkedin.com/in/anurag-singh-9b39b1219/".
          #opensource
     },
+    {
+        "github": "https://github.com/GUPTA-DIKSHITA",
+        "name": "Dikshita Gupta",
+	"Linedin":"www.linkedin.com/in/guptadikshita".
+         #opensource
+    },

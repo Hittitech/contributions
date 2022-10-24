@@ -50,4 +50,10 @@
         "name": "Manas Rajan Mohanta",
 	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
          #opensource
+    },
+    {
+        "github": "https://github.com/Pranjal360Agarwal",
+        "name": "Pranjal Agarwal",
+	"Linedin":"https://www.linkedin.com/in/pranjal-agarwal-11b543226/".
+         #opensource
     }

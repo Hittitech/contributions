@@ -23,6 +23,12 @@
 	"Linedin":"www.linkedin.com/in/guptadikshita".
          #opensource
     },
+        {
+        "github": "https://github.com/Daffodilgithub",
+        "name": "Sagarika Saha",
+	"Linedin":"https://www.linkedin.com/in/sagarika-saha-05ba9422a/".
+         #opensource
+    },
      {
 
         "github": "https://github.com/jalajsc",

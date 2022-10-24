@@ -85,3 +85,9 @@
          #opensource
     },
   }
+      {
+        "github": "https://github.com/nitishwaa",
+        "name": "Nitish Kumar Singh",
+	"Linedin":"https://www.linkedin.com/in/nitishwa/".
+         #opensource
+    },

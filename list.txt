@@ -51,3 +51,9 @@
 	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
          #opensource
     }
+      {
+        "github": "https://github.com/adityachakraborty-tech",
+        "name": "Aditya Chakraborty",
+	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
+         #opensource
+    },

@@ -23,6 +23,12 @@
 	"Linedin":"www.linkedin.com/in/guptadikshita".
          #opensource
     },
+        {
+        "github": "https://github.com/Daffodilgithub",
+        "name": "Sagarika Saha",
+	"Linedin":"https://www.linkedin.com/in/sagarika-saha-05ba9422a/".
+         #opensource
+    },
      {
 
         "github": "https://github.com/jalajsc",
@@ -52,3 +58,17 @@
          #opensource
     }
      
+    {
+        "github": "https://github.com/Iamchandra-3 ",
+        "name": "Chandra Sekhar ",
+	"Linkedin":"https://www.linkedin.com/in/vinnakota-chandra-sekhar/ ".
+         #opensource
+    },
+
+     {
+
+        "github": "https://github.com/manasranjanmohanta",
+        "name": "Manas Rajan Mohanta",
+	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
+         #opensource
+  }

@@ -50,3 +50,11 @@
 	"Linkedin":"https://www.linkedin.com/in/vinnakota-chandra-sekhar/ ".
          #opensource
     },
+
+     {
+
+        "github": "https://github.com/manasranjanmohanta",
+        "name": "Manas Rajan Mohanta",
+	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
+         #opensource
+  }

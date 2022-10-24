@@ -23,6 +23,12 @@
 	"Linedin":"www.linkedin.com/in/guptadikshita".
          #opensource
     },
+        {
+        "github": "https://github.com/Daffodilgithub",
+        "name": "Sagarika Saha",
+	"Linedin":"https://www.linkedin.com/in/sagarika-saha-05ba9422a/".
+         #opensource
+    },
      {
 
         "github": "https://github.com/jalajsc",
@@ -46,6 +52,21 @@
     },
      {
 
+        "github": "https://github.com/DivyamVJ0901",
+        "name": "Divyam Vijay",
+	"Linedin":"https://www.linkedin.com/in/divyam-vijay-597768233".
+         #opensource
+    }
+     
+    {
+        "github": "https://github.com/Iamchandra-3 ",
+        "name": "Chandra Sekhar ",
+	"Linkedin":"https://www.linkedin.com/in/vinnakota-chandra-sekhar/ ".
+         #opensource
+    },
+
+     {
+
         "github": "https://github.com/manasranjanmohanta",
         "name": "Manas Rajan Mohanta",
 	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
@@ -57,3 +78,4 @@
 	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
          #opensource
     },
+  }

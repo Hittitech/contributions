@@ -43,4 +43,11 @@
         "name": "mohd saif ali",
 	"Linedin":"https://in.linkedin.com/in/mohd-saif-ali-3b519b236".
          #opensource
+    },
+     {
+
+        "github": "https://github.com/manasranjanmohanta",
+        "name": "Manas Rajan Mohanta",
+	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
+         #opensource
     }

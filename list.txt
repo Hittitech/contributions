@@ -43,4 +43,10 @@
         "name": "mohd saif ali",
 	"Linedin":"https://in.linkedin.com/in/mohd-saif-ali-3b519b236".
          #opensource
-    }
+    },
+    {
+        "github": "https://github.com/Iamchandra-3 ",
+        "name": "Chandra Sekhar ",
+	"Linkedin":"https://www.linkedin.com/in/vinnakota-chandra-sekhar/ ".
+         #opensource
+    },

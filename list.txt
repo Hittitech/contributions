@@ -91,3 +91,10 @@
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+    
+    {
+      "github" : "https://github.com/MansiBhayade"
+      "name" : "Mansi Bhayade"
+       "Linkedin": "https://www.linkedin.com/in/mansi-bhayade/"
+       #opensource
+       },

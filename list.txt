@@ -84,10 +84,17 @@
 	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
          #opensource
     },
-  }
       {
         "github": "https://github.com/nitishwaa",
         "name": "Nitish Kumar Singh",
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+      { 
+        "github": "https://github.com/kunal00000",
+        "name": "Kunal Verma",
+	"Linedin":"https://www.linkedin.com/in/kunalverma2468/".
+         #opensource
+    }
+}    
+    

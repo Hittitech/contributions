@@ -56,7 +56,7 @@
         "name": "Divyam Vijay",
 	"Linedin":"https://www.linkedin.com/in/divyam-vijay-597768233".
          #opensource
-    }
+    },
      
     {
         "github": "https://github.com/Iamchandra-3 ",
@@ -84,10 +84,15 @@
 	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
          #opensource
     },
-  }
       {
         "github": "https://github.com/nitishwaa",
         "name": "Nitish Kumar Singh",
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
+    },
+      {
+        "github": "https://github.com/dhruvkej9",
+        "name": "dhruv kejriwal",
+	"Linedin":"https://www.linkedin.com/in/dhruv-kejriwal-9a99751a9/".
+        #opensource
     },

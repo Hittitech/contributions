@@ -49,14 +49,21 @@
         "name": "mohd saif ali",
 	"Linedin":"https://in.linkedin.com/in/mohd-saif-ali-3b519b236".
          #opensource
+         }, 
+    {
+        "github": "https://github.com/priyanshu1208",
+        "name": "Priyanshu",
+	"Linedin":"https://www.linkedin.com/in/priyanshu-chugh-b92478131/".
+         #opensource
     },
+
      {
 
         "github": "https://github.com/DivyamVJ0901",
         "name": "Divyam Vijay",
 	"Linedin":"https://www.linkedin.com/in/divyam-vijay-597768233".
          #opensource
-    }
+    },
      
     {
         "github": "https://github.com/Iamchandra-3 ",
@@ -73,6 +80,12 @@
          #opensource
     },
     {
+
+        "github": "https://github.com/Devrajsinh03",
+        "name": "Devrajisnh Gohil",
+	"Linedin":"https://www.linkedin.com/in/devrajsinh/".
+         #opensource
+    }
         "github": "https://github.com/Pranjal360Agarwal",
         "name": "Pranjal Agarwal",
 	"Linedin":"https://www.linkedin.com/in/pranjal-agarwal-11b543226/".
@@ -83,18 +96,41 @@
         "name": "Aditya Chakraborty",
 	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
          #opensource
+ }, 
+
+    {
+        "github": "https://github.com/Piyush-k-r",
+        "name": "Piyush Kumar",
+	"Linedin":"https://www.linkedin.com/in/piyush-kumar-8365b6217/".
+         #opensource
     },
+  
+
       {
         "github": "https://github.com/nitishwaa",
         "name": "Nitish Kumar Singh",
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+
       { 
         "github": "https://github.com/kunal00000",
         "name": "Kunal Verma",
 	"Linedin":"https://www.linkedin.com/in/kunalverma2468/".
          #opensource
-    }
-}    
-    
+    }, 
+      {
+        "github": "https://github.com/dhruvkej9",
+        "name": "dhruv kejriwal",
+	"Linedin":"https://www.linkedin.com/in/dhruv-kejriwal-9a99751a9/".
+        #opensource
+    },
+
+{
+        "github": "https://github.com/pepatcha",
+        "name": "Patchara Suwanbordin",
+	"Linedin":"https://www.linkedin.com/in/pepatcha/".
+        #opensource
+},
+
+

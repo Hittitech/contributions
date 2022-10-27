@@ -49,7 +49,14 @@
         "name": "mohd saif ali",
 	"Linedin":"https://in.linkedin.com/in/mohd-saif-ali-3b519b236".
          #opensource
+         }, 
+    {
+        "github": "https://github.com/priyanshu1208",
+        "name": "Priyanshu",
+	"Linedin":"https://www.linkedin.com/in/priyanshu-chugh-b92478131/".
+         #opensource
     },
+
      {
 
         "github": "https://github.com/DivyamVJ0901",
@@ -110,3 +117,4 @@
 	"Linedin":"https://www.linkedin.com/in/pepatcha/".
         #opensource
 },
+

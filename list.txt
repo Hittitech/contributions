@@ -91,3 +91,10 @@
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+
+  {
+        "github": "Your github profile link here",
+        "name": "Your name here",
+	"Linedin":"Your Linkedin here(Optional)".
+         #opensource
+    },

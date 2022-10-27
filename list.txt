@@ -104,8 +104,7 @@
 	"Linedin":"https://www.linkedin.com/in/piyush-kumar-8365b6217/".
          #opensource
     },
-    
-  }
+  
 
       {
         "github": "https://github.com/nitishwaa",
@@ -113,6 +112,13 @@
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+
+      { 
+        "github": "https://github.com/kunal00000",
+        "name": "Kunal Verma",
+	"Linedin":"https://www.linkedin.com/in/kunalverma2468/".
+         #opensource
+    }, 
       {
         "github": "https://github.com/dhruvkej9",
         "name": "dhruv kejriwal",

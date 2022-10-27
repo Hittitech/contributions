@@ -90,6 +90,13 @@
 	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
          #opensource
     },
+    {
+        "github": "https://github.com/Piyush-k-r",
+        "name": "Piyush Kumar",
+	"Linedin":"https://www.linkedin.com/in/piyush-kumar-8365b6217/".
+         #opensource
+    },
+    
   }
       {
         "github": "https://github.com/nitishwaa",

@@ -132,5 +132,10 @@
 	"Linedin":"https://www.linkedin.com/in/pepatcha/".
         #opensource
 },
-
+{
+        "github": "https://github.com/MansiBhayade",
+        "name": "Mansi Bhayade",
+	"Linedin":"https://www.linkedin.com/in/Mansi-Bhayade/".
+        #opensource
+},
 

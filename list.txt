@@ -93,8 +93,8 @@
     },
 
   {
-        "github": "Your github profile link here",
-        "name": "Your name here",
-	"Linedin":"Your Linkedin here(Optional)".
+        "github": "https://github.com/sahelii",
+        "name": "Saheli Mahapatra",
+	"Linedin":"https://www.linkedin.com/in/saheli-mahapatra-83b759202/)".
          #opensource
     },

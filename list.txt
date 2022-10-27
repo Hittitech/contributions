@@ -73,6 +73,12 @@
          #opensource
     },
     {
+
+        "github": "https://github.com/Devrajsinh03",
+        "name": "Devrajisnh Gohil",
+	"Linedin":"https://www.linkedin.com/in/devrajsinh/".
+         #opensource
+    }
         "github": "https://github.com/Pranjal360Agarwal",
         "name": "Pranjal Agarwal",
 	"Linedin":"https://www.linkedin.com/in/pranjal-agarwal-11b543226/".

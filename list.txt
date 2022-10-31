@@ -132,5 +132,11 @@
 	"Linedin":"https://www.linkedin.com/in/pepatcha/".
         #opensource
 },
+{
+        "github": "https://github.com/qayyum64",
+        "name": "Abdul Qayyum",
+	"Linedin":"https://www.linkedin.com/in/abdul-qayyum-47124222a".
+        #opensource  
+},
 
 

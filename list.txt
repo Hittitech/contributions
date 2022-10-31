@@ -112,25 +112,3 @@
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
-
-      { 
-        "github": "https://github.com/kunal00000",
-        "name": "Kunal Verma",
-	"Linedin":"https://www.linkedin.com/in/kunalverma2468/".
-         #opensource
-    }, 
-      {
-        "github": "https://github.com/dhruvkej9",
-        "name": "dhruv kejriwal",
-	"Linedin":"https://www.linkedin.com/in/dhruv-kejriwal-9a99751a9/".
-        #opensource
-    },
-
-{
-        "github": "https://github.com/pepatcha",
-        "name": "Patchara Suwanbordin",
-	"Linedin":"https://www.linkedin.com/in/pepatcha/".
-        #opensource
-},
-
-

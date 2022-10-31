@@ -91,3 +91,11 @@
 	"Linedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+ }
+     {
+        "github": "https://github.com/ayush-chahar",
+        "name": "Ayush Chahar",
+	"Linedin":"https://www.linkedin.com/in/chahar-ayush24/".
+         #opensource
+     },
+ }    

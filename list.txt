@@ -138,4 +138,30 @@
 	"Linedin":"https://www.linkedin.com/in/Mansi-Bhayade/".
         #opensource
 },
+        "github": "https://github.com/qayyum64",
+        "name": "Abdul Qayyum",
+	"Linedin":"https://www.linkedin.com/in/abdul-qayyum-47124222a".
+        #opensource  
+},
+ {
+40
+
+41
+        "github": "https://github.com/boysmart98,
+42
+        "name": "mohd saif",
+43
+        "Linedin":"https://www.linkedin.com/in/mohd-saif-ab18bb239/".
+44
+         #opensource
+45
+    },
+    {
+    	
+        "github": "https://github.com/adnan1947",
+        "name": "md adnan",
+	"Linedin":"https://www.linkedin.com/in/mohd-adnan/".
+        #opensource
+
+
 

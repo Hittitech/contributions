@@ -112,6 +112,12 @@
 	"Linkedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
+        {
+        "github": "https://github.com/satyaki2001",
+        "name": "Satyaki Sinha",
+	"Linedin":"https://www.linkedin.com/in/satyaki-sinha-872607195/".
+         #opensource
+    },
 {
         "github": "https://github.com/lord-benjamin",
         "name": "Dhruv Arora",

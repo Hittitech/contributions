@@ -1,62 +1,69 @@
  {
         "github": "https://github.com/Hittitech",
         "name": "Md Adnan Sami",
-	"Linedin":"linkedin.com/in/md-adnan-sami-234622214".
+	"Linkedin":"linkedin.com/in/md-adnan-sami-234622214".
          #opensource
     },
 {
         "github": "https://github.com/Mohammadkhan18",
         "name": "Mohammad Khan",
-	"Linedin":"https://www.linkedin.com/in/mohammad-khan-356105227/".
+	"Linkedin":"https://www.linkedin.com/in/mohammad-khan-356105227/".
          #opensource
     },
     {
         "github": "https://github.com/Anurag-05-prog",
         "name": "Anurag Singh",
-	"Linedin":"https://www.linkedin.com/in/anurag-singh-9b39b1219/".
+	"Linkedin":"https://www.linkedin.com/in/anurag-singh-9b39b1219/".
          #opensource
     },
    
     {
         "github": "https://github.com/GUPTA-DIKSHITA",
         "name": "Dikshita Gupta",
-	"Linedin":"www.linkedin.com/in/guptadikshita".
+	"Linkedin":"www.linkedin.com/in/guptadikshita".
          #opensource
     },
         {
         "github": "https://github.com/Daffodilgithub",
         "name": "Sagarika Saha",
-	"Linedin":"https://www.linkedin.com/in/sagarika-saha-05ba9422a/".
+	"Linkedin":"https://www.linkedin.com/in/sagarika-saha-05ba9422a/".
          #opensource
     },
      {
 
         "github": "https://github.com/jalajsc",
         "name": "Jalaj",
-	"Linedin":"https://www.linkedin.com/in/jalaj-singh-a19099221/".
+	"Linkedin":"https://www.linkedin.com/in/jalaj-singh-a19099221/".
          #opensource
     },
     {
 
         "github": "https://github.com/KavyaShuklaa",
         "name": "KavyaShuklaa",
-	"Linedin":"https://www.linkedin.com/in/kavya-shukla-ab18bb239/".
+	"Linkedin":"https://www.linkedin.com/in/kavya-shukla-ab18bb239/".
          #opensource
     },
      {
 
         "github": "https://github.com/mohd-saif-ali",
         "name": "mohd saif ali",
-	"Linedin":"https://in.linkedin.com/in/mohd-saif-ali-3b519b236".
+	"Linkedin":"https://in.linkedin.com/in/mohd-saif-ali-3b519b236".
+         #opensource
+         }, 
+    {
+        "github": "https://github.com/priyanshu1208",
+        "name": "Priyanshu",
+	"Linkedin":"https://www.linkedin.com/in/priyanshu-chugh-b92478131/".
          #opensource
     },
+
      {
 
         "github": "https://github.com/DivyamVJ0901",
         "name": "Divyam Vijay",
-	"Linedin":"https://www.linkedin.com/in/divyam-vijay-597768233".
+	"Linkedin":"https://www.linkedin.com/in/divyam-vijay-597768233".
          #opensource
-    }
+    },
      
     {
         "github": "https://github.com/Iamchandra-3 ",
@@ -69,26 +76,40 @@
 
         "github": "https://github.com/manasranjanmohanta",
         "name": "Manas Rajan Mohanta",
-	"Linedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
+	"Linkedin":"https://www.linkedin.com/in/manas-ranjan-mohanta-5488a822b/".
          #opensource
     },
     {
+
+        "github": "https://github.com/Devrajsinh03",
+        "name": "Devrajisnh Gohil",
+	"Linkedin":"https://www.linkedin.com/in/devrajsinh/".
+         #opensource
+    }
         "github": "https://github.com/Pranjal360Agarwal",
         "name": "Pranjal Agarwal",
-	"Linedin":"https://www.linkedin.com/in/pranjal-agarwal-11b543226/".
+	"Linkedin":"https://www.linkedin.com/in/pranjal-agarwal-11b543226/".
          #opensource
     }
       {
         "github": "https://github.com/adityachakraborty-tech",
         "name": "Aditya Chakraborty",
-	"Linedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
+	"Linkedin":"https://www.linkedin.com/in/aditya-chakraborty-3a625817b/".
+         #opensource
+ }, 
+
+    {
+        "github": "https://github.com/Piyush-k-r",
+        "name": "Piyush Kumar",
+	"Linkedin":"https://www.linkedin.com/in/piyush-kumar-8365b6217/".
          #opensource
     },
-  }
+  
+
       {
         "github": "https://github.com/nitishwaa",
         "name": "Nitish Kumar Singh",
-	"Linedin":"https://www.linkedin.com/in/nitishwa/".
+	"Linkedin":"https://www.linkedin.com/in/nitishwa/".
          #opensource
     },
         {
@@ -97,3 +118,72 @@
 	"Linedin":"https://www.linkedin.com/in/satyaki-sinha-872607195/".
          #opensource
     },
+{
+        "github": "https://github.com/lord-benjamin",
+        "name": "Dhruv Arora",
+	"Linkedin":"https://www.linkedin.com/in/dhruv-arora-bab128235/".
+         #opensource
+    },
+
+
+
+      { 
+        "github": "https://github.com/kunal00000",
+        "name": "Kunal Verma",
+	"Linkedin":"https://www.linkedin.com/in/kunalverma2468/".
+         #opensource
+    }, 
+      {
+        "github": "https://github.com/dhruvkej9",
+        "name": "dhruv kejriwal",
+	"Linkedin":"https://www.linkedin.com/in/dhruv-kejriwal-9a99751a9/".
+        #opensource
+    },
+
+{
+        "github": "https://github.com/pepatcha",
+        "name": "Patchara Suwanbordin",
+	"Linkedin":"https://www.linkedin.com/in/pepatcha/".
+        #opensource
+},
+     
+ {
+        "github": "https://github.com/jyoti-bhasin",
+        "name": "Jyoti Bhasin",
+	"Linkedin":"https://www.linkedin.com/in/jyoti-bhasin-7840991ba".
+        #opensource
+},
+
+{
+        "github": "https://github.com/MansiBhayade",
+        "name": "Mansi Bhayade",
+	"Linedin":"https://www.linkedin.com/in/Mansi-Bhayade/".
+        #opensource
+},
+        "github": "https://github.com/qayyum64",
+        "name": "Abdul Qayyum",
+	"Linedin":"https://www.linkedin.com/in/abdul-qayyum-47124222a".
+        #opensource  
+},
+ {
+40
+
+41
+        "github": "https://github.com/boysmart98,
+42
+        "name": "mohd saif",
+43
+        "Linedin":"https://www.linkedin.com/in/mohd-saif-ab18bb239/".
+44
+         #opensource
+45
+    },
+    {
+    	
+        "github": "https://github.com/adnan1947",
+        "name": "md adnan",
+	"Linedin":"https://www.linkedin.com/in/mohd-adnan/".
+        #opensource
+
+
+

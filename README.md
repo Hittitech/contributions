@@ -14,7 +14,6 @@ Hi there, let me walk you on how you can make your first Open-Source Contributio
 
 Fork the repository by clicking the fork button on the top of the page. This will create an instance of this repository in your account.
 
-This instance will be an exact copy where you can chance and edit the project as per your choice!
 
 
 ---

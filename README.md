@@ -6,7 +6,7 @@ Hi there, let me walk you on how you can make your first Open-Source Contributio
 
 # How to contribute in this project ?
 
-## Step 1 :-First of all star the Repo and follow my github.
+## Step 1 :-First of all star the Repo and follow my github
 
 ---
 
